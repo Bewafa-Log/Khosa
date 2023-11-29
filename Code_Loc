@@ -4,5 +4,5 @@ loc1 = "PK"
 code2 = "ro_RO"
 loc2 = "RO"
 
-code3 = "en_GB"
-loc3 = "GB"
+code3 = "en_US"
+loc3 = "US"
